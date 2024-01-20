@@ -2,7 +2,7 @@
 
 ### Front-End Developer apprentice at Nashville Software School
 
-##### 🌱 I’m currently learning Django while working on a project called Level Up. (https://github.com/brantleyrecs/dwango-client)(https://github.com/brantleyrecs/dwango-server)
+##### 🌱 I’m currently learning Django while working on a project called Dwango, a Hip Hop Pizza and Wings Resturant. (https://github.com/brantleyrecs/dwango-client)(https://github.com/brantleyrecs/dwango-server)
 
 ## Skills Include:
 <p align="left">
