@@ -2,7 +2,9 @@
 
 ### Front-End Developer apprentice at Nashville Software School
 
-##### 🌱 I’m currently working on my Backend Capstone called GearMaster Events. Follow along as I work on it. (https://github.com/brantleyrecs/gearmaster-events)(https://github.com/brantleyrecs/gearmaster-events-server)
+##### 🌱 I’m currently working on my Backend Capstone called GearMaster Events. Follow along as I work on it. 
+[GearMaster Events Client side](https://github.com/brantleyrecs/gearmaster-events) 
+[GearMaster Events Server side](https://github.com/brantleyrecs/gearmaster-events-server)
 
 ## Skills Include:
 <p align="left">
